@@ -1,2 +1,2 @@
 # Cashflow-Predictions-and-others
-This code is part of my work during the internship
+These codes are part of my work during the internship, which include analysis about cashflow prediction, sales optimization and others. (Data is not available here)
